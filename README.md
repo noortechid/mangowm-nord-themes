@@ -20,7 +20,7 @@
 ## 01 — Preview
 
 <p align="center">
-  <img src="assets/screenshot.png" alt="MangoWM Nord Desktop Preview" width="100%" />
+  <img src="assets/desktop.png" alt="MangoWM Nord Desktop Preview" width="100%" />
 </p>
 
 <p align="center">
