@@ -17,6 +17,6 @@ else
 fi
 
 jq -cn \
-    --arg text "  ${CLOCK} GHz" \
+    --arg text "   ${CLOCK}GHz" \
     --arg tooltip "Intel HD Graphics 520\nDriver: i915\nCurrent: ${CURRENT:-N/A} MHz\nActive: ${ACTIVE:-N/A} MHz\nMaximum: ${MAX:-N/A} MHz" \
     '{text:$text,class:"custom-gpu",tooltip:$tooltip}'
